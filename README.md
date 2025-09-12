@@ -52,6 +52,12 @@ I'm a **DevOps & Cloud Engineer** passionate about designing and deploying **sca
 
 ---
 
+## 📂 DevOps & AWS Tasks Repository
+This repository contains **all my DevOps & AWS tasks** including Docker, Terraform, Jenkins pipelines, and AWS deployments.  
+🔗 **GitHub Repo** → [Click Here](https://github.com/Deepak-r-2001/DevOps)
+
+---
+
 ## 🏅 Certifications
 
 - 🟢 **AWS Certified Cloud Practitioner**
