@@ -11,7 +11,7 @@
 ---
 
 ## 🧑‍💻 About Me
-I'm a DevOps & Cloud Engineer passionate about designing and deploying scalable, production-ready solutions using AWS, Azure, Docker, Kubernetes, Jenkins, and CI/CD pipelines. I love solving problems, automating workflows, and building optimized cloud-native solutions.
+I'm a **DevOps & Cloud Engineer** passionate about designing and deploying **scalable, production-ready solutions** using **AWS, Azure, Docker, Kubernetes, Jenkins, and CI/CD pipelines**. I love solving problems, automating workflows, and building optimized cloud-native solutions.
 
 ---
 
@@ -53,7 +53,7 @@ I'm a DevOps & Cloud Engineer passionate about designing and deploying scalable,
 ---
 
 ## 📂 DevOps & AWS Tasks Repository
-This repository contains all my DevOps & AWS tasks including Docker, Terraform, Jenkins pipelines, and AWS deployments.  
+This repository contains **all my DevOps & AWS tasks** including Docker, Terraform, Jenkins pipelines, and AWS deployments.  
 🔗 **GitHub Repo** → [Click Here](https://github.com/Deepak-r-2001/DevOps)
 
 ---
